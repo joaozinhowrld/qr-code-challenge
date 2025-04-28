@@ -14,7 +14,7 @@ body {
   background-color: #D5E1EF;
 }
 
-.container {
+main {
   display: flex;
   width: 320px;
   height: 499px;
